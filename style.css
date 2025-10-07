@@ -23,7 +23,7 @@ body {
 }
 
 .heart {
-  animation: heartbeatSlow 1.4s infinite ease-in-out;
+  animation: heartbeatSlow 1.3s infinite ease-in-out;
   transform-origin: 50% 50%;
   transition: all 0.3s ease-in-out;
   filter: drop-shadow(0 0 0px rgba(255, 0, 0, 0));
@@ -42,7 +42,7 @@ body {
   }
 
   14% {
-    transform: scale(1.17);
+    transform: scale(1.16);
   }
 
   28% {
