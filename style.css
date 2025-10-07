@@ -30,7 +30,7 @@ body {
   cursor: pointer;
 }
 
-.heart_wrap:hover .heart {
+.heart:hover {
   animation: heartbeatFast 0.85s infinite cubic-bezier(0.55, 0.05, 0.4, 0.95);
   filter: drop-shadow(0 0 15px rgba(255, 0, 0, 0.8));
 }
