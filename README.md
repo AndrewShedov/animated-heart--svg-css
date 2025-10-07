@@ -9,8 +9,8 @@ In this component, when creating an animation, onAnimationEnd is applied, as in 
 <img src="https://raw.githubusercontent.com/AndrewShedov/animated-heart--css/refs/heads/main/assets/gif.gif" width="590" />
 <br />
 
-### [LIVE](https://animated-heart-css.vercel.app/)
-### [Homepage](https://shedov.top/animated-modal-in-react-using-onanimationend/)
+#### [LIVE](https://animated-heart-css.vercel.app/)
+#### [Description of creation](https://animated-heart-css.vercel.app/)
 
 [SHEDOV.TOP](https://shedov.top/) | [CRYSTAL](https://crysty.ru/AndrewShedov) | [Discord](https://discord.gg/ENB7RbxVZE) | [Telegram](https://t.me/ShedovChannel) | [X](https://x.com/AndrewShedov) | [VK](https://vk.com/shedovclub) | [VK Video](https://vkvideo.ru/@shedovclub) | [YouTube](https://www.youtube.com/@AndrewShedov)
 
