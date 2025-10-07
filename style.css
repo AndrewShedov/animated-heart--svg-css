@@ -1,3 +1,7 @@
+* {
+  margin: 0; 
+}
+
 body {
   background: #000000;
 }
@@ -10,9 +14,6 @@ body {
 }
 
 .heart_wrap {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   width: 190px;
   height: 190px;
 }
