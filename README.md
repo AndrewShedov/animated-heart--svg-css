@@ -6,7 +6,6 @@
 <br />
 <br />
 <img src="https://raw.githubusercontent.com/AndrewShedov/animated-heart--css/refs/heads/main/assets/gif.gif" width="590" />
-<br />
 
 #### [LIVE](https://animated-heart-css.vercel.app/)
 #### [Description of creation](https://animated-heart-css.vercel.app/)
