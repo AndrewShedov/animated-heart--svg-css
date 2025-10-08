@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/AndrewShedov/animated-heart--css/refs/heads/main/assets/gif.gif" width="590" />
 
-#### [LIVE](https://animated-heart-css.vercel.app/)
+#### [LIVE](https://animated-heart-svg-css.vercel.app/)
 #### [Explanation of the creation](https://shedov.top/animated-heart-made-with-svg-and-pure-css/)
 #### [CodePen](https://codepen.io/AndrewShedov/pen/PwZmYYR)
 
