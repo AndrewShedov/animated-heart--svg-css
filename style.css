@@ -67,6 +67,7 @@ body {
 
   15% {
     transform: scale(1.12);
+    color: red;
   }
 
   30% {
