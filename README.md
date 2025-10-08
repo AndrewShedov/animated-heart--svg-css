@@ -2,7 +2,7 @@
 )](https://discord.gg/ENB7RbxVZE)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&logo=5865F2&logoColor=black&labelColor=black&color=%23f3f3f3)](https://github.com/AndrewShedov/animated-modal-in-react/blob/main/LICENSE)
 
-# Animated heart with realistic heartbeat and hover effect, built with pure CSS 
+# Animated heart with realistic heartbeat and hover effect, made with SVG and pure CSS 
 
 <img src="https://raw.githubusercontent.com/AndrewShedov/animated-heart--css/refs/heads/main/assets/gif.gif" width="590" />
 
