@@ -7,9 +7,7 @@
 <img src="https://raw.githubusercontent.com/AndrewShedov/animated-heart--css/refs/heads/main/assets/gif.gif" width="590" />
 
 [![LIVE](https://img.shields.io/badge/LIVE-ff0000?style=for-the-badge)](https://animated-heart-svg-css.vercel.app/)
-&nbsp;
-[![Creation Explanation](https://img.shields.io/badge/Creation_Explanation-0073e6?style=for-the-badge)](https://shedov.top/animated-heart-made-with-svg-and-pure-css/)
-&nbsp;
+[![Creation explanation](https://img.shields.io/badge/Creation_Explanation-0073e6?style=for-the-badge)](https://shedov.top/animated-heart-made-with-svg-and-pure-css/)
 [![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen)](https://codepen.io/AndrewShedov/pen/PwZmYYR)
 
 
