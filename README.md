@@ -1,5 +1,5 @@
 [![Discord](https://img.shields.io/discord/1006372235172384849?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&color=%23f3f3f3&label=)](https://discord.gg/ENB7RbxVZE)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&logo=5865F2&logoColor=black&labelColor=black&color=%23f3f3f3)](https://github.com/AndrewShedov/animated-modal-in-react/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&logo=5865F2&logoColor=black&labelColor=black&color=%23f3f3f3)](https://github.com/AndrewShedov/animated-heart--svg-css/blob/main/LICENSE)
 
 # Animated heart with realistic heartbeat and hover effect, made with SVG and pure CSS 
 
