@@ -6,10 +6,7 @@
 
 [![LIVE](https://img.shields.io/badge/LIVE-ff0000?style=for-the-badge)](https://animated-heart-svg-css.vercel.app/)
 [![Creation explanation](https://img.shields.io/badge/Creation_Explanation-black?style=for-the-badge)](https://shedov.top/animated-heart-made-with-svg-and-pure-css/)
-[![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen)](https://codepen.io/AndrewShedov/pen/PwZmYYR)
-
-
-
+[![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen)](https://codepen.io/AndrewShedov/pen/PwZmYYR)<br/>
 [![SHEDOV.TOP](https://img.shields.io/badge/SHEDOV.TOP-black?style=for-the-badge)](https://shedov.top/) 
 [![CRYSTAL](https://img.shields.io/badge/CRYSTAL-black?style=for-the-badge)](https://crysty.ru/AndrewShedov)
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&color=black&logoColor=white)](https://discord.gg/ENB7RbxVZE)
