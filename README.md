@@ -8,7 +8,7 @@
 [![Creation explanation](https://img.shields.io/badge/Creation_Explanation-black?style=for-the-badge)](https://shedov.top/animated-heart-made-with-svg-and-pure-css/)
 [![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen)](https://codepen.io/AndrewShedov/pen/PwZmYYR)<br/>
 [![SHEDOV.TOP](https://img.shields.io/badge/SHEDOV.TOP-black?style=for-the-badge)](https://shedov.top/) 
-[![CRYSTAL](https://img.shields.io/badge/CRYSTAL-black?style=for-the-badge)](https://crysty.ru/AndrewShedov)
+[![CRYSTAL](https://img.shields.io/badge/CRYSTAL-black?style=for-the-badge)](https://crystal.you/AndrewShedov)
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&color=black&logoColor=white)](https://discord.gg/ENB7RbxVZE)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&color=black&logoColor=white)](https://t.me/ShedovTop)
 [![X](https://img.shields.io/badge/%20-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AndrewShedov)
