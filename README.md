@@ -2,7 +2,15 @@
 
 # Animated heart with realistic heartbeat and hover effect, made with SVG and pure CSS 
 
-<img src="https://raw.githubusercontent.com/AndrewShedov/animated-heart--css/refs/heads/main/assets/gif.gif" width="590" />
+<br>
+
+<a href="https://animated-heart-svg-css.vercel.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/AndrewShedov/animated-heart--css/refs/heads/main/assets/gif.gif"/>
+</a>
+
+<br>
+<br>
+
 
 [![LIVE](https://img.shields.io/badge/LIVE-ff0000?style=for-the-badge)](https://animated-heart-svg-css.vercel.app/)
 [![Creation explanation](https://img.shields.io/badge/Creation_Explanation-black?style=for-the-badge)](https://shedov.top/animated-heart-made-with-svg-and-pure-css/)
